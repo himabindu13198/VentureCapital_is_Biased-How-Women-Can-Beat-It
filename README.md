@@ -1,4 +1,4 @@
-# VentureCapital_is_Biased-How-Women-Can-Beat-It
+# Women in Venture Capital
 ## Finalists Video Presentation Link: https://lnkd.in/dTRykpM
 ### Recommendation dashboard Link:  https://public.tableau.com/profile/teneika.askew#!/vizhome/TheBiasedVCSystem/Recommendations-Tool
 As of 2019, women-owned businesses are growing [2 times faster than all businesses nationwide](https://www.businesswire.com/news/home/20190923005500/en/Woman-Owned-Businesses-Are-Growing-2X-Faster-On-Average-Than-All-Businesses-Nationwide), and yet, they only receive 2.8% of venture capital (VC) funding. 
